@@ -1,0 +1,119 @@
+@import "/home/zorax/.config/waybar/matugen/colors.css";
+
+/* ================= GLOBAL ================= */
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "Radio Canada Big", "JetBrainsMono Nerd Font Propo", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    min-height: 0;
+    padding: 0;
+    margin: 0;
+}
+
+/* ================= WAYBAR WINDOW ================= */
+window#waybar {
+    background: transparent;
+}
+
+/* ================= TOOLTIP ================= */
+tooltip {
+    background: @background;
+    border: 1px solid @surface_container_lowest;
+}
+
+tooltip label {
+    color: @primary_container;
+    padding: 6px;
+}
+
+/* ================= MODULE GROUP (THE REAL BAR) ================= */
+/* This is the waterfall container */
+.modules-center {
+    background-color: @background;
+    border: 1px solid @on_secondary_fixed_variant;
+    border-radius: 22px;
+    padding: 6px 12px;
+}
+
+/* Optional: if you want left/right also wrapped, duplicate above for them */
+
+/* ================= CONTAINER SPACING ================= */
+.modules-left,
+.modules-right {
+    background: transparent;
+}
+
+/* ================= WORKSPACES ================= */
+#workspaces {
+    background: transparent;
+    border: none;
+    padding: 2px 6px;
+}
+
+#workspaces button {
+    padding: 0px 6px;
+    margin: 0px 3px;
+    border-radius: 50px;
+    color: transparent;
+    background-color: #21252b;
+    transition: all 0.3s ease-in-out;
+}
+
+#workspaces button.active {
+    background-color: @primary_fixed_dim;
+    color: #282c34;
+    min-width: 50px;
+    font-size: 13px;
+}
+
+#workspaces button:hover {
+    background-color: @primary;
+    color: #282c34;
+}
+
+#workspaces button.urgent {
+    background-color: @surface_tint;
+    color: #282c34;
+}
+
+/* ================= STANDARD MODULES ================= */
+#battery,
+#pulseaudio,
+#backlight,
+#network,
+#clock,
+#custom-weather,
+#custom-notification {
+    background: transparent;
+    border: none;
+    padding: 0 12px;
+    color: @on_surface;
+}
+
+/* ================= MEDIA ================= */
+#custom-media {
+    background: transparent;
+    border: none;
+    padding: 0 14px;
+    color: @color4;
+}
+
+/* ================= TRAY ================= */
+#tray {
+    background: transparent;
+    border: none;
+    padding: 0 10px;
+}
+
+/* ================= HOVER POLISH ================= */
+#battery:hover,
+#pulseaudio:hover,
+#backlight:hover,
+#network:hover,
+#clock:hover,
+#custom-media:hover,
+#custom-notification:hover {
+    color: @primary;
+}

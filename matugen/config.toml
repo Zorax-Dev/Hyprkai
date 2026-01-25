@@ -1,0 +1,25 @@
+[config]
+# ...
+
+[templates.waybar]
+input_path = "/home/zorax/.config/matugen/templates/waybar.css"
+output_path = "/home/zorax/.config/waybar/matugen/colors.css"
+post_hook = "pkill waybar || true; waybar &"
+
+[templates.gtk3]
+input_path = "/home/zorax/.config/matugen/templates/GTK.css"
+output_path = "/home/zorax/.config/gtk-3.0/colors.css"
+post_hook = "gsettings set org.gnome.desktop.interface gtk-theme 'adw-gtk3-{{mode}}'"
+
+[templates.gtk4]
+input_path = "/home/zorax/.config/matugen/templates/GTK.css"
+output_path = "/home/zorax/.config/gtk-4.0/colors.css"
+
+[templates.sway]
+input_path = '/home/zorax/.config/matugen/templates/sway.css'
+output_path = '/home/zorax/.config/swaync/matugen/colors.css'
+post_hook = 'swaymsg reload'
+
+[templates.rofi]
+input_path = "/home/zorax/.config/matugen/templates/rofi-color.rasi"
+output_path = "/home/zorax/.config/rofi/colors.rasi"

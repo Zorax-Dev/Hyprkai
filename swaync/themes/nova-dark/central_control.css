@@ -1,0 +1,274 @@
+/* =====================================================
+   SWAYNC STYLE – MATUGEN (MATERIAL YOU)
+   ===================================================== */
+
+/* ---------- Semantic aliases (IMPORTANT) ---------- */
+
+@define-color text              @on_surface;
+@define-color text-muted        @on_surface_variant;
+
+@define-color bg-main           @background;
+@define-color bg-surface        alpha(@surface_container, 0.85);
+@define-color bg-surface-alt    alpha(@surface_container_high, 0.85);
+@define-color bg-hover          alpha(@secondary, 0.35);
+
+@define-color accent            @primary;
+@define-color accent-soft       alpha(@primary, 0.45);
+
+@define-color danger            @error;
+
+
+/* ---------- Global ---------- */
+
+* {
+  all: unset;
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 14px;
+  color: @text;
+  transition: 180ms ease;
+}
+
+.blank-window {
+  background: transparent;
+}
+
+
+/* =====================================================
+   CONTROL CENTER
+   ===================================================== */
+
+.control-center {
+  background: alpha(@bg-main, 0.65);
+  border-radius: 24px;
+  border: 1px solid alpha(@accent, 0.45);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.55);
+  margin: 18px;
+  padding: 14px;
+}
+
+
+/* =====================================================
+   NOTIFICATIONS
+   ===================================================== */
+
+.control-center
+.notification-row
+.notification-background {
+  background: @bg-surface;
+  border-radius: 16px;
+  margin: 6px 0;
+  padding: 6px;
+}
+
+.notification {
+  border-radius: 14px;
+}
+
+.notification-content {
+  margin: 6px;
+  padding: 6px;
+}
+
+.notification-title {
+  font-weight: 600;
+}
+
+.notification-body {
+  color: @text-muted;
+}
+
+/* critical */
+.notification.critical {
+  border: 1px solid alpha(@danger, 0.7);
+  color: @danger;
+}
+
+
+/* ---------- Notification buttons ---------- */
+
+.notification-action {
+  background: @accent-soft;
+  color: @on_primary;
+  border-radius: 12px;
+  padding: 6px 10px;
+  margin: 6px;
+}
+
+.notification-action:hover {
+  background: @accent;
+}
+
+.close-button {
+  background: transparent;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+.close-button:hover {
+  background: @bg-hover;
+}
+
+
+/* =====================================================
+   PROGRESS BARS
+   ===================================================== */
+
+progressbar,
+progress,
+trough {
+  border-radius: 12px;
+}
+
+progressbar {
+  background: alpha(@on_surface, 0.08);
+}
+
+
+/* =====================================================
+   GROUPED NOTIFICATIONS
+   ===================================================== */
+
+.notification-group {
+  margin: 4px 8px;
+}
+
+.notification-group-headers {
+  font-weight: bold;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+}
+
+.notification-group-collapse-button,
+.notification-group-close-all-button {
+  background: transparent;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+.notification-group-collapse-button:hover,
+.notification-group-close-all-button:hover {
+  background: @bg-hover;
+}
+
+
+/* =====================================================
+   WIDGETS
+   ===================================================== */
+
+/* ---------- Title / Clear ---------- */
+
+.widget-title {
+  font-size: 1.2em;
+  margin: 6px;
+}
+
+.widget-title button {
+  background: @bg-surface-alt;
+  border-radius: 10px;
+  padding: 4px 16px;
+}
+
+.widget-title button:hover {
+  background: @bg-hover;
+}
+
+
+/* ---------- Do Not Disturb ---------- */
+
+.widget-dnd {
+  margin: 6px;
+  font-size: 1.1rem;
+}
+
+.widget-dnd > switch {
+  background: @bg-surface-alt;
+  border-radius: 8px;
+  padding: 2px;
+}
+
+.widget-dnd > switch:checked {
+  background: @accent;
+}
+
+.widget-dnd > switch slider {
+  background: @on_primary;
+  border-radius: 6px;
+}
+
+
+/* ---------- Buttons Grid ---------- */
+
+.widget-buttons-grid {
+  background: @bg-surface;
+  border-radius: 16px;
+  margin: 6px;
+  padding: 6px;
+}
+
+.widget-buttons-grid button {
+  border-radius: 12px;
+  padding: 6px 12px;
+}
+
+.widget-buttons-grid button:hover {
+  background: @bg-hover;
+}
+
+
+/* =====================================================
+   MPRIS (MEDIA PLAYER)
+   ===================================================== */
+
+.widget-mpris {
+  background: @bg-surface;
+  border-radius: 18px;
+  margin: 16px 6px;
+}
+
+.widget-mpris-player {
+  background: @bg-surface-alt;
+  border-radius: 20px;
+  padding: 8px 14px;
+  margin: 6px;
+}
+
+.widget-mpris button {
+  color: alpha(@text, 0.6);
+}
+
+.widget-mpris button:hover {
+  color: @text;
+}
+
+.widget-mpris-title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.widget-mpris-subtitle {
+  font-weight: 500;
+  font-size: 0.85rem;
+  color: @text-muted;
+}
+
+.widget-mpris-album-art {
+  border-radius: 14px;
+}
+
+/* disable blurred album-art background */
+picture.mpris-background {
+  opacity: 0;
+}
+
+
+/* =====================================================
+   VOLUME
+   ===================================================== */
+
+.widget-volume {
+  background: @bg-surface-alt;
+  color: @text;
+  padding: 6px;
+  margin: 6px;
+  border-radius: 12px;
+}

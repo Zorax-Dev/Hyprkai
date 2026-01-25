@@ -1,0 +1,94 @@
+
+@import "colors.rasi"
+configuration {
+    show-icons: true;
+    display-dmenu: "";
+}
+
+* {
+    font: "JetBrainsMono Nerd Font 11";
+    bg: rgba(0, 0, 0, 0.65);
+    fg: #eaeaf0;
+}
+
+/***** WINDOW *****/
+window {
+    width: 48%;
+    height: 27%;
+    background-color: @bg;
+    border: 2px;
+    border-color: @primary-fixed-dim;
+    border-radius: 14px;
+}
+
+/***** MAIN *****/
+mainbox {
+    padding: 14px;
+    background-color: #000000;
+}
+
+/***** SEARCH BAR *****/
+inputbar {
+    enabled: false;
+    background-color: rgba(25, 25, 25, 0.85);
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom: 14px;
+}
+
+prompt { enabled: false; }
+
+entry {
+    background-color: transparent;
+    text-color: @fg;
+    padding: 6px;
+}
+
+textbox {
+    background-color: transparent;
+}
+
+/***** LIST *****/
+listview {
+    columns: 4;
+    spacing: 16px;
+    scrollbar: true;
+    background-color: transparent;
+}
+
+listview scrollbar {
+    background-color: rgba(180, 180, 180, 0.35);
+}
+
+/***** ELEMENT (IMAGE ONLY) *****/
+element {
+    background-color: transparent;
+    padding: 0px;
+}
+
+/***** IMAGE *****/
+element-icon {
+    size: 180px;
+    border-radius: 12px;
+    background-color: transparent;
+}
+
+/***** SELECTION (SUBTLE, NO WHITE CARDS) *****/
+element selected {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+}
+
+element active {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+}
+scrollbar {
+    background-color: rgba(180, 180, 180, 0.35);
+}
+
+scrollbar handle {
+    background-color: rgba(180, 180, 180, 0.35);
+    border-radius: 6px;
+}
+

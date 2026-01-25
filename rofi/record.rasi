@@ -1,0 +1,75 @@
+@import "colors.rasi"
+
+configuration {
+    show-icons: false;
+    sidebar-mode: false;
+}
+
+* {
+    font: "JetBrainsMono Nerd Font 11";
+
+    bg: #000000ee;
+    fg: #ffffff;
+    bordercol: #ffffff;
+
+    border-radius: 14px;
+}
+
+/* WINDOW */
+window {
+    width: 360px;
+    background-color: @bg;
+    border: 1px;
+    border-color: @primary-fixed-dim;
+    border-radius: 16px;
+}
+
+/* MAIN */
+mainbox {
+    padding: 14px;
+    background-color: transparent;
+}
+
+/* KILL SEARCH / HEADER */
+inputbar { enabled: false; }
+prompt   { enabled: false; }
+message  { enabled: false; }
+textbox  { enabled: false; }
+
+/* LIST */
+listview {
+    lines: 4;
+    spacing: 10px;
+    background-color: transparent;
+}
+
+/* REMOVE ICON SPACE COMPLETELY */
+element-icon {
+    size: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-color: transparent;
+}
+
+/* ITEMS */
+element {
+    padding: 6px 6px;
+    background-color: transparent;
+    text-color: @fg;
+}
+
+/* TEXT */
+element-text {
+    background-color: transparent;
+    text-color: @fg;
+}
+
+
+
+element selected {
+    background-color: #ffffff14;
+    border-radius: 8px;
+    text-color: #ffffff;
+}
+
+

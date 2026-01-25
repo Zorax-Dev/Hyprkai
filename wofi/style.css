@@ -1,0 +1,50 @@
+@import "/home/zorax/.config/waybar/matugen/colors.css";
+/* The outer window */
+window {
+    margin: 10px;
+    border: 3px solid @primary_fixed_dim; /* Match your button color */
+    background-color: @background; /* Dark background */
+    border-radius: 10px; /* The "Bubbly" roundness */
+}
+
+/* The search bar area */
+#input {
+    margin: 15px 10px 0px 10;
+    border: none;
+    color: @on_secondary_fixed;
+    font-weight: bold;
+    font-family: "JetBrainsMono Nerd Font";
+    background-color: @on_secondary_fixed_variant;
+    border-radius: 15px; /* Round input bar */
+}
+
+/* The list of apps */
+#inner-box {
+    margin: 0px 0px
+    padding: 0px 0px 10px 0px;
+    border: none;
+    background-color: transparent;
+}
+
+/* Individual App Entries */
+#entry {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 15px; /* Round apps */
+    border: none;
+}
+
+/* Target the icon inside the entry */
+#img {
+    margin: 0px 10px 0px 0px;
+    background-color: transparent;
+}
+
+/* When you select an app */
+#entry:selected {
+    background-color: @primary;
+    color: @surface_container_low;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.68);
+    font-size: 15px;
+    font-weight: bold;
+}

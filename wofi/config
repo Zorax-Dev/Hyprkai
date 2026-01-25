@@ -1,0 +1,27 @@
+# Shrink the width (standard dmenu is wide, but a "box" looks better narrow)
+width=320
+
+# Limit the height so it doesn't take up half the screen
+height=300
+
+# Position it
+location=top
+
+# x=15 keeps it slightly away from the left bezel
+x= -50
+
+# y=50 is CRITICAL. This pushes it down so it floats *below* your Top Bar.
+# If your Waybar is thicker, increase this number (e.g., 60 or 70).
+y=5
+
+# Keep the rest the same...
+show=drun
+prompt=Search...
+allow_markup=true
+no_actions=true
+halign=fill
+orientation=vertical
+content_halign=fill
+insensitive=true
+allow_images=true
+image_size=20   # Slightly smaller icons to match the tiny box

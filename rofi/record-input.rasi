@@ -1,0 +1,76 @@
+@import "colors.rasi"
+
+configuration {
+    show-icons: false;
+    sidebar-mode: false;
+}
+
+* {
+    font: "JetBrainsMono Nerd Font 11";
+
+    bg: #000000ee;
+    fg: #ffffff;
+    bordercol: #ffffff;
+
+    border-radius: 14px;
+}
+
+/* WINDOW */
+window {
+    width: 420px;
+    background-color: @bg;
+    border: 1px;
+    border-color: @primary-fixed-dim;
+    border-radius: 16px;
+}
+
+/* MAIN */
+mainbox {
+    padding: 14px;
+    background-color: transparent;
+}
+
+/* INPUT BAR */
+inputbar {
+    enabled: true;
+    padding: 8px 12px;
+    background-color: #000000ee;
+    border: 1px;
+    border-color: @bordercol;
+    border-radius: 12px;
+}
+
+/* ❌ REMOVE PROMPT TEXT COMPLETELY */
+prompt {
+    enabled: false;
+}
+
+/* ENTRY FIELD */
+
+entry {
+    background-color: transparent;
+    text-color: @fg;
+    placeholder: "Enter file name (no .mp4)";
+    cursor: text;
+    cursor-color: #ffffff;
+    cursor-width: 1px;
+}
+
+
+/* SAFETY */
+
+textbox-prompt-colon {
+    enabled: false;
+}
+
+textbox {
+    background-color: transparent;
+}
+
+
+/* HIDE LIST */
+listview {
+    lines: 0;
+    background-color: transparent;
+}
+

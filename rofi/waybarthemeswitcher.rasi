@@ -1,0 +1,96 @@
+
+@import "colors.rasi"
+
+configuration {
+    modi: "drun";
+    show-icons: true;
+    drun-display-format: "{icon} {name}";
+}
+
+* {
+    font: "JetBrainsMono Nerd Font 12";
+    foreground: #ffffff;
+}
+
+/* ================= WINDOW ================= */
+
+window {
+    width: 40%;
+    background-color: #000000;
+    border-radius: 16px;
+
+    border: 1;
+    border-color: @primary-fixed-dim;
+}
+
+
+/* ================= INPUT ================= */
+
+inputbar {
+    background-color: #000000;
+    padding: 12px;
+
+    children: [ entry ];
+}
+
+
+
+
+entry {
+    background-color: #000000;
+    text-color: #ffffff;
+    cursor: none;
+    caret-color: transparent;
+}
+
+/* ================= LIST ================= */
+listview {
+    background-color: #000000;
+    lines: 8;
+    spacing: 6px;
+}
+
+/* ================= ELEMENT ================= */
+element {
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+element-text {
+    background-color: #000000;
+    text-color: #ffffff;
+}
+
+/* ================= SELECTED (1px WHITE OUTLINE) ================= */
+
+element selected {
+    background-color: #1e1e1e;   /* light gray selector */
+    border: 0;
+    border-radius: 10px;
+}
+
+
+element-text selected {
+    background-color: #1e1e1e;
+    text-color: #ffffff;
+}
+
+/* ================= ICONS ================= */
+element-icon {
+    background-color: transparent;
+    size: 24px;
+}
+
+/* ================= REMOVE PROMPT ================= */
+prompt {
+    enabled: false;
+}
+
+textbox {
+    background-color: #000000;
+}
+
+textbox-prompt-colon {
+    enabled: false;
+}

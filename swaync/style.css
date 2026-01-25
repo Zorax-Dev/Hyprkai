@@ -1,0 +1,256 @@
+@import '/home/zorax/.config/swaync/matugen/colors.css';
+@import 'themes/nova-dark/notifications.css';
+@import 'themes/nova-dark/central_control.css';
+
+/* =====================================================
+   SWAYNC – DARK GLASS / CLEAN MEDIA
+   ===================================================== */
+
+/* ---------- COLORS (Matugen compatible) ---------- */
+
+@define-color text              @on_surface;
+@define-color text-muted        @on_surface_variant;
+
+@define-color bg-main           rgba(0, 0, 0, 0.65);
+@define-color bg-surface        rgba(0, 0, 0, 0.55);
+@define-color bg-surface-alt    rgba(0, 0, 0, 0.6);
+
+@define-color accent            @primary;
+@define-color accent-soft       alpha(@primary, 0.6);
+
+@define-color danger            @error;
+
+
+/* =====================================================
+   GLOBAL
+   ===================================================== */
+
+* {
+  all: unset;
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 14px;
+  color: @text;
+  transition: 180ms ease;
+}
+
+.blank-window {
+  background: transparent;
+}
+
+
+/* =====================================================
+   CONTROL CENTER
+   ===================================================== */
+
+.control-center {
+  background: @bg-main;
+  border-radius: 26px;
+  margin: 18px;
+  padding: 16px;
+  box-shadow: 0 25px 50px rgba(0,0,0,0.8);
+}
+
+
+/* =====================================================
+   TOP ICON BAR
+   ===================================================== */
+
+.widget-buttons-grid {
+  background: @bg-surface;
+  border-radius: 18px;
+  padding: 8px 10px;
+  margin-bottom: 14px;
+}
+
+.widget-buttons-grid flowbox {
+  spacing: 14px;
+}
+
+.widget-buttons-grid button {
+  min-width: 44px;
+  min-height: 44px;
+  border-radius: 14px;
+}
+
+.widget-buttons-grid button:hover {
+  background: rgba(255,255,255,0.1);
+}
+
+
+/* =====================================================
+   MPRIS – MEDIA PLAYER (FIXED)
+   ===================================================== */
+
+.widget-mpris {
+  background: @bg-surface;
+  border-radius: 20px;
+  padding: 12px;
+  margin-bottom: 16px;
+}
+
+/* player card */
+.widget-mpris-player {
+  background: @bg-surface-alt;
+  border-radius: 22px;
+  padding: 14px;
+}
+
+/* vertical spacing */
+.widget-mpris-player box {
+  spacing: 12px;
+  align-items: center;
+}
+
+/* title */
+.widget-mpris-title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.widget-mpris-subtitle {
+  font-size: 0.85rem;
+  color: @text-muted;
+}
+
+/* ---------- MEDIA CONTROLS (SPACING FIX) ---------- */
+
+.widget-mpris-controls {
+  margin-top: 11px;
+}
+
+.widget-mpris-controls button {
+  margin: 0px 14px;      /* 👈 space between ⏮ ⏯ ⏭ */
+  padding: 6px;
+  border-radius: 14px;
+  color: alpha(@text, 0.6);
+}
+
+.widget-mpris-controls button:hover {
+  color: @text;
+}
+
+
+/* ---------- SEEK / PROGRESS BAR (FORCED) ---------- */
+
+.widget-mpris progressbar {
+  min-height: 6px;
+  margin-top: 12px;
+  border-radius: 999px;
+}
+
+.widget-mpris trough {
+  background: rgba(255,255,255,0.18);
+  border-radius: 999px;
+}
+
+.widget-mpris progress {
+  background: @accent;
+  border-radius: 999px;
+}
+
+/* make it clickable */
+.widget-mpris progressbar:hover {
+  background: rgba(255,255,255,0.25);
+}
+
+/* disable album-art blur bg */
+picture.mpris-background {
+  opacity: 0;
+}
+
+
+/* =====================================================
+   TITLE + CLEAR
+   ===================================================== */
+
+.widget-title {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.widget-title button {
+  background: @bg-surface-alt;
+  border-radius: 10px;
+  padding: 6px 18px;
+}
+
+.widget-title button:hover {
+  background: rgba(255,255,255,0.12);
+}
+
+
+/* =====================================================
+   DO NOT DISTURB (NO BORDER)
+   ===================================================== */
+
+.widget-dnd {
+  background: @bg-surface;
+  border-radius: 18px;
+  padding: 12px;
+  margin-bottom: 14px;
+  font-size: 1.1rem;
+  border: none; /* ❌ border removed */
+}
+
+.widget-dnd > switch {
+  background: rgba(255,255,255,0.15);
+  border-radius: 999px;
+  padding: 3px;
+}
+
+.widget-dnd > switch:checked {
+  background: @accent;
+}
+
+.widget-dnd > switch slider {
+  background: @text;
+  border-radius: 999px;
+}
+
+
+/* =====================================================
+   NOTIFICATIONS
+   ===================================================== */
+
+.control-center
+.notification-row
+.notification-background {
+  background: @bg-surface;
+  border-radius: 18px;
+  margin: 8px 0;
+  padding: 8px;
+}
+
+.notification-title {
+  font-weight: 600;
+}
+
+.notification-body {
+  color: @text-muted;
+}
+
+.notification.critical {
+  color: @danger;
+  border: 1px solid alpha(@danger, 0.6);
+}
+
+.notification-action {
+  background: @accent-soft;
+  color: @on_primary;
+  border-radius: 14px;
+  padding: 6px 12px;
+  margin: 6px;
+}
+
+.notification-action:hover {
+  background: @accent;
+}
+
+.close-button {
+  padding: 4px;
+  border-radius: 8px;
+}
+
+.close-button:hover {
+  background: rgba(255,255,255,0.1);
+}
