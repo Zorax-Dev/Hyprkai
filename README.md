@@ -1,5 +1,6 @@
 # ZoraxDots
 **Minimal and aesthetic Hyprland dotfiles focused on a clean workflow and visual consistency.**
+- i will try to add install.sh and update.sh ASAP 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5df87fa4-8881-4ee3-ad4b-e9b2291f54ab" />
 
