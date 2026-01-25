@@ -2,4 +2,4 @@
 A well made config files for Hyprland to do Rice 
 
 ## Showcase
-https://github.com/zorax/ZoraxDots/blob/main/screenshots/demo.mp4
+https://github.com/zorax/ZoraxDots/blob/main/screenshots/thistimefinaliswear_muted.mp4
