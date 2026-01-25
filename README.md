@@ -1,7 +1,10 @@
 # ZoraxDots
 **Minimal and aesthetic Hyprland dotfiles focused on a clean workflow and visual consistency.**
 
-<img width="1920" height="1080" alt="Image" src="main/screenshots/2026-01-25_15-31-22.png/>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5df87fa4-8881-4ee3-ad4b-e9b2291f54ab" />
+
+[wallpapers 1](https://github.com/sleepycathey/CozyPixels)
+[wallpapers 2](https://github.com/krishna4a6av/Wallpapers)
 
 ## pakages used 
 - waybar
