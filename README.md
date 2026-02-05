@@ -56,6 +56,6 @@ Files used:
 - hyprlock.sh
 
 Original repository:
-https://github.com/aadritobasu
+https://github.com/aadritobasu/HyprKenso
 
 License: CC BY-NC-SA 4.0
