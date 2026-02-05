@@ -1,0 +1,111 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "context_servers": {
+    "mcp-server-context7": {
+      "enabled": true,
+      "remote": false,
+      "settings": {},
+    },
+  },
+  "edit_predictions": {
+    "mode": "subtle",
+  },
+  "features": {
+    "edit_prediction_provider": "zed",
+  },
+  "agent": {
+    "default_profile": "write",
+    "default_model": {
+      "provider": "google",
+      "model": "gemini-2.5-pro",
+    },
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "project_panel": {
+    "dock": "left",
+  },
+  "ui_font_family": "JetBrainsMono Nerd Font",
+  "buffer_line_height": "comfortable",
+  "terminal": {
+    "font_size": 18.0,
+    "shell": {
+      "program": "sh",
+    },
+  },
+  "buffer_font_family": "CommitMono Nerd Font Mono",
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Catppuccin Mocha",
+    "dark": "Base Charmed Icons",
+  },
+  "ui_font_size": 18.0,
+  "buffer_font_size": 18.0,
+  //"theme": "Evergarden Winter (Hybrid)",
+  "theme": "Everforest Dark Medium",
+  "theme_overrides": {
+    "Everforest Dark Medium": {
+      "border.variant": "#1A1D20",
+      "border": "#0f0f0f",
+      "panel.background": "#15181B",
+      "editor.background": "#15181B",
+      "editor.gutter.background": "#15181B",
+      "title_bar.background": "#1A1D20",
+      "panel.focused_border": "#262A2F",
+      "panel.overlay_background": "#24282D",
+      "status_bar.background": "#121416",
+      "editor.active_line.background": "#212529",
+      "text": "#E6E6EB",
+      "text.muted": "#9AA0A6",
+      "text.accent": "#E6E6EB",
+      "background.appearance": "blurred",
+      "toolbar.background": "#15181B",
+      "search.active_match_background": "#15181B",
+      "syntax": {
+        "comment": {
+          "font_style": "italic",
+          "color": "#565F89",
+        },
+        "comment.doc": {
+          "font_style": "italic",
+        },
+        "keyword": {
+          "color": "#7AA2F7",
+          "font_style": "oblique",
+        },
+        "function": {
+          "color": "#7DCFFF",
+        },
+        "function names": {
+          "color": "#F7768E",
+        },
+        "type": {
+          "color": "#BB9AF7",
+        },
+        "string": {
+          "color": "#9ECE6A",
+        },
+        "number": {
+          "color": "#FF9E64",
+        },
+        "cursor": {
+          "color": "#FF9E64",
+        },
+      },
+    },
+  },
+  "title_bar": {
+    "show_onboarding_banner": false,
+    "show_project_items": false,
+  },
+  "tab_bar": {
+    "show": false,
+  },
+}

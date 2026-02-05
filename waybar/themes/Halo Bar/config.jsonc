@@ -10,7 +10,6 @@
   ],
   "modules-center": [
     "hyprland/workspaces",
-    "ext/workspaces",
     "custom/notification"
   ],
   "modules-right": [

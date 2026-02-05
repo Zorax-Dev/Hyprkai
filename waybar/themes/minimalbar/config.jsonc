@@ -5,8 +5,8 @@
     "spacing": 2,
     "margin": "5 6 5 6",
     "reload_style_on_change": true,
-    
-    "modules-left": ["ext/workspaces","group/media"],
+
+    "modules-left": ["hyprland/workspaces","group/media"],
     "modules-center": ["clock"],
     "modules-right": ["custom/cava","custom/separator1","backlight","custom/separator2","pulseaudio","custom/separator2","network","custom/separator2","battery","custom/separator2", "custom/suckless", "custom/separator2"],
 
@@ -16,7 +16,7 @@
     // },
 
 
-    "ext/workspaces": {
+    "hyprland/workspaces": {
         "disable-scroll": false,
         "all-outputs": true,
         "format": "{name}",
@@ -168,7 +168,7 @@
 
       "custom/cava": {
         "format": "{}",
-        "exec": "~/.config/waybar/cava.sh" 
+        "exec": "~/.config/waybar/cava.sh"
     }
 }
 

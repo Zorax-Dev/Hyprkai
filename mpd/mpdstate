@@ -1,0 +1,650 @@
+sw_volume: 26
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Param Sundari - A.R. Rahman, Shreya Ghoshal.m4a
+1:Mere Naam Tu (From  Zero ) - Abhay Jodhpurkar, Ajay-Atul.m4a
+2:Chikni Chameli - Ajay-Atul, Shreya Ghoshal.m4a
+3:Chammak Challo - Akon, Hamsika Iyer.m4a
+4:Shaam Shaandaar - Amit Trivedi.m4a
+5:Badass (From  Leo ) - Anirudh Ravichander.m4a
+6:Ratata (From  Leo ) - Anirudh Ravichander.m4a
+7:Why This Kolaveri Di  - The Soup of Love - Anirudh Ravichander, Dhanush.m4a
+8:Zinda Banda (From  Jawan ) - Anirudh Ravichander, Irshad Kamil.m4a
+9:Arabic Kuthu - Halamithi Habibo (From  Beast ) - Anirudh Ravichander, Jonita Gandhi.m4a
+10:Ordinary Person (From  Leo ) - Anirudh Ravichander, Nikhita Gandhi.m4a
+11:Hukum - Thalaivar Alappara - Tamil (From  Jailer ) - Anirudh Ravichander, Super Subu.m4a
+12:Not Ramaiya Vastavaiya (From  Jawan ) - Anirudh Ravichander, Vishal Dadlani, Shilpa Rao, Kumaar.m4a
+13:Sanam Teri Kasam - Ankit Tiwari, Palak Muchhal, Sameer Anjaan.m4a
+14:Kabhi Jo Baadal Barse - Arijit Singh.m4a
+15:Thodi Jagah (From  Marjaavaan ) - Arijit Singh, Tanishk Bagchi.m4a
+16:Buttabomma - Telugu - Armaan Malik, Thaman S.m4a
+17:Mashooka - Feat. Rakul Preet Singh - Asees Kaur, Tanishk Bagchi, Dev Negi, Viruss, Rakul Preet Singh.m4a
+18:What's Up Danger (with Black Caviar) - Blackway, Black Caviar.m4a
+19:Soni Soni (From  Ishq Vishk Rebound ) - Darshan Raval, Jonita Gandhi, Rochak Kohli, Gurpreet Saini.m4a
+20:Bijlee Bijlee - Harrdy Sandhu.m4a
+21:Na Roja Nuvve - Hesham Abdul Wahab.m4a
+22:JD-Intro-MassTamilan.io.mp3
+23:Chand Sifarish - Jatin-Lalit, Shaan, Kailash Kher, Prasoon Joshi.m4a
+24:Milegi Milegi - Mika Singh, Sachin-Jigar.m4a
+25:Sanam Re - Mithoon, Arijit Singh.m4a
+26:Akhiyaan Gulaab (From  Teri Baaton Mein Aisa Uljha Jiya ) - Mitraz.m4a
+27:Daavudi (From  Devara Part 1 ) - Nakash Aziz, AKASA, Anirudh Ravichander.m4a
+28:Dilbar (From  Satyameva Jayate ) - Neha Kakkar, Dhvani Bhanushali, Ikka, Tanishk Bagchi.m4a
+29:O Saki Saki (From  Batla House ) - Neha Kakkar, Tulsi Kumar, B Praak, Tanishk Bagchi, Vishal-Shekhar.m4a
+30:Mere Rashke Qamar - Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan.m4a
+31:Teri Meri Kahaani - Palak Muchhal, Arijit Singh.m4a
+32:Ae Dil Hai Mushkil Title Track - Pritam, Arijit Singh.m4a
+33:Tere Pyaar Mein - Pritam, Arijit Singh, Amitabh Bhattacharya, Nikhita Gandhi.m4a
+34:Badtameez Dil - Pritam, Benny Dayal, Shefali Alvares.m4a
+35:Taras - From  Munjya  - Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya.m4a
+36:Aaj Ki Raat (From  Stree 2 ) - Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya.m4a
+37:Thumkeshwari - Sachin-Jigar, Rashmeet Kaur, Ash King, Divya Kumar, Amitabh Bhattacharya.m4a
+38:Tumhare Hi Rahenge Hum (From  Stree 2 ) - Sachin-Jigar, Varun Jain, Shilpa Rao, Amitabh Bhattacharya.m4a
+39:Mashallah - Sajid-Wajid, Wajid, Shreya Ghoshal, Kausar Munir.m4a
+40:Tujh Mein Rab Dikhta Hai - Salim–Sulaiman, Roop Kumar Rathod, Jaideep Sahni.m4a
+41:There's Nothing Holdin' Me Back - Shawn Mendes.m4a
+42:Chuttamalle (From  Devara Part 1 ) - Shilpa Rao, Anirudh Ravichander, Ramajogayya Sastry.m4a
+43:Raataan Lambiyan (From  Shershaah ) - Tanishk Bagchi, Jubin Nautiyal, Asees Kaur.m4a
+44:Ninnila - Thaman S, Armaan Malik, Shree Mani.m4a
+45:Nain Matakka - From  Baby John  - Thaman S, Diljit Dosanjh, Dhee, Irshad Kamil.m4a
+46:Baby John - Beast Mode - From  Baby John  - Thaman S, Raja Kumari, Adviteeya Vojjala, Ritesh G Rao.m4a
+47:Tum Tum (From  Enemy - Tamil ) - Thaman S, Srivardhani Kuchi, Aditi Bhavaraju, Satya Yamini, Roshini JKV, Tejaswini, Karaikudi Mani.m4a
+48:Bhasad Macha - From  Deva  - Vishal Mishra, Mika Singh, Jyotica Tangri, Raj Shekhar.m4a
+49:Naacho Naacho (From  RRR ) - Vishal Mishra, Rahul Sipligunj, M. M. Keeravaani, Riya Mukherjee.m4a
+50:Ghungroo (From  War ) - Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar.m4a
+51:Besharam Rang (From  Pathaan ) - Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+52:Bom Diggy Diggy - Zack Knight, Jasmin Walia.m4a
+53:Kamariya - Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar.m4a
+54:Gulaabo - Amit Trivedi, Anusha Mani, Vishal Dadlani.m4a
+55:Chaleya - Anirudh Ravichander, Arijit Singh, Shilpa Rao, Kumaar.m4a
+56:Bol Do Na Zara (From  Azhar ) - Armaan Malik.m4a
+57:Jeene Laga Hoon - Atif Aslam, Shreya Ghoshal, Sachin-Jigar.m4a
+58:Akh Lad Jaave - Badshah, Asees Kaur, Jubin Nautiyal.m4a
+59:Attention - Charlie Puth.m4a
+60:Vaathi-Coming-MassTamilan.io.mp3
+61:Pal - Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole.m4a
+62:SLAVA FUNK! - MVSTERIOUS, Hxmr, yngastrobeatz., EVO.m4a
+63:Kaun Tujhe - Palak Muchhal.m4a
+64:Sunflower - Spider-Man  Into the Spider-Verse - Post Malone, Swae Lee.m4a
+65:Bulleya - Pritam, Amit Mishra, Shilpa Rao.m4a
+66:Khairiyat - Pritam, Arijit Singh.m4a
+67:Pyaar Hota Kayi Baar Hai - Pritam, Arijit Singh, Amitabh Bhattacharya, Charan.m4a
+68:What Jhumka   (From  Rocky Aur Rani Kii Prem Kahaani ) - Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Amitabh Bhattacharya.m4a
+69:Maiyya Mainu - Sachet Tandon.m4a
+70:Apna Bana Le - Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya.m4a
+71:Tere Vaaste (From  Zara Hatke Zara Bachke ) - Sachin-Jigar, Varun Jain, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya.m4a
+72:Hangover - Salman Khan, Meet Bros Anjjan, Shreya Ghoshal.m4a
+73:Dildaara (Stand By Me) - Shafqat Amanat Ali.m4a
+74:Sheila Ki Jawani - Sunidhi Chauhan, Vishal Dadlani.m4a
+75:Tones and I - Dance Monkey.mp3
+76:Jhoome Jo Pathaan - Vishal-Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+77:Dil Diyan Gallan - Vishal-Shekhar, Atif Aslam, Irshad Kamil.m4a
+78:Jab Tak - Armaan Malik.m4a
+79:PASSO BEM SOLTO - Slowed - ATLXS.m4a
+80:Afghan Jalebi (Film Version) - Pritam, Akhtar Chinnal.m4a
+81:Kalank - Title Track - Pritam, Arijit Singh.m4a
+82:Janam Janam - Pritam, Arijit Singh, Antara Mitra.m4a
+83:Ye Ishq Hai - Pritam, Shreya Ghoshal.m4a
+84:Aayi Nai - Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya.m4a
+85:Ud-daa Punjab - Amit Trivedi, Vishal Dadlani.m4a
+86:Shape of You - Ed Sheeran.m4a
+87:Nainowale Ne - Neeti Mohan, Sanjay Leela Bhansali, Siddharth - Garima.m4a
+88:Pungi - Pritam, Mika Singh, Amitabh Bhattacharya, Nakash Aziz, Javed Jaffrey.m4a
+89:Teri Meri - Rahat Fateh Ali Khan, Shreya Ghoshal.m4a
+90:Main Agar Kahoon - Sonu Nigam, Shreya Ghoshal.m4a
+91:Yaar Naa Miley - Yo Yo Honey Singh, Jasmine Sandlas.m4a
+92:Levitating - Dua Lipa.m4a
+93:Perfect - Ed Sheeran.m4a
+94:River (feat. Ed Sheeran) - Eminem, Ed Sheeran.m4a
+95:Aao Milo Chalo - Pritam, Shaan, Sultan Khan.m4a
+96:Tu Meri - Vishal Dadlani.m4a
+97:Kala Chashma - Prem & Hardeep, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Amrik Singh.m4a
+98:Har Kisi Ko - Arijit Singh, Neeti Mohan.m4a
+99:Chahun Main Ya Naa (From  Aashiqui 2 ) - Palak Muchhal, Arijit Singh.m4a
+100:Bekhayali (Arijit Singh Version) - Arijit Singh.m4a
+101:Love Again - Dua Lipa.m4a
+102:Break My Heart - Dua Lipa.m4a
+103:Sunn Raha Hai (Female Version) - Shreya Ghoshal.m4a
+104:New Rules - Dua Lipa.m4a
+105:Title Track Tere Ishk Mein 128 Kbps.mp3
+106:Saiyaara 128 Kbps.mp3
+107:Title Track Dhurandhar 128 Kbps.mp3
+108:Tu Cheez Badi Hai Mast Mast Mix (From Dacoit)  Adivi Sesh  Mrunal Thakur Anurag Kashyap.mp3
+109:Chellamma-MassTamilan.fm.mp3
+110:Thalapathy Kacheri.mp3
+111:Naa-Ready-MassTamilan.dev.mp3
+112:Beast Mode.mp3
+113:Interval Fight.mp3
+114:Sahiba(KoshalWorld.Com).mp3
+115:Nadaaniyan Akshath 128 Kbps.mp3
+116:Powerhouse - (Raag.Fm).mp3
+117:Jawan Title Track Anirudh Ravichander 128 Kbps.mp3
+118:Jimikki Ponnu Varisu 128 Kbps.mp3
+119:Galliyan Ek Villain 128 Kbps.mp3
+120:Sunn Raha Hai Male Aashiqui 2 128 Kbps.mp3
+121:Wo Ladki Jo Baadshah 128 Kbps.mp3
+122:Aasan Nahin Yahan Aashiqui 2 128 Kbps.mp3
+123:Dhun Saiyaara 128 Kbps.mp3
+124:Phir Kabhi M.s. Dhoni The Untold Story 128 Kbps.mp3
+125:Tum Hi Ho Aashiqui 2 128 Kbps.mp3
+126:Satranga Animal 128 Kbps.mp3
+127:Besabriyaan M.s. Dhoni The Untold Story 128 Kbps.mp3
+128:Rowdy Baby Maari 2 128 Kbps.mp3
+129:Ehsaas Faheem Abdullah 128 Kbps.mp3
+130:Saiyaara X Aashiqui 2 Mashup _ Jay Guldekar _ Faheem Abdullah _ Arijit Singh _ Tum Hi Ho [aIxEPVFrNWk].mp3
+131:Barbaad Saiyaara 128 Kbps.mp3
+132:Levitating x Woh Ladki Jo Mashup(KoshalWorld.Com).mp3
+133:Tum Mere Na Huye Thamma 128 Kbps.mp3
+134:Kurchi Madathapetti Guntur Kaaram 320 Kbps.mp3
+135:Aankh Marey (From Simmba).mp3
+136:Mera Wala Dance Simmba 128 Kbps.mp3
+137:Bhool Bhulaiyaa Pritam 128 Kbps.mp3
+138:Kabhi Kabhi Aditi Zindagi Jaane Tu.. Ya Jaane Na 128 Kbps.mp3
+139:NO BATIDO - Slowed.mp3
+140:Humsafar Saiyaara 128 Kbps.mp3
+141:Mera Hua Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+142:Dude Trailer Blast (PenduJatt.Com.Se).mp3
+143:Saiyaara x Aashiqui 2 x Ek Villain (Mashup) HS Visual x Papul-(SambalpuriStar.In).mp3
+144:Pardesiya Param Sundari 128 Kbps.mp3
+145:Rahein Na Rahein Hum Thamma 128 Kbps.mp3
+146:Illuminat.mp3
+147:Saiyaara Reprise - Female - (Raag.Fm).mp3
+148:Oh Girl You Are Mine Housefull 128 Kbps.mp3
+149:Guns N Roses (PenduJatt.Com.Se).mp3
+150:Oh My Baby Guntur Kaaram 128 Kbps.mp3
+151:Mawaa Enthaina Guntur Kaaram 128 Kbps.mp3
+152:Ranjithame Varisu 128 Kbps.mp3
+153:Jai Jai Shivshankar War 128 Kbps.mp3
+154:Deewaniyat Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+155:Khoobsurat Stree 2 128 Kbps.mp3
+156:Pehle Bhi Main Animal 128 Kbps.mp3
+157:Monster - YOASOBI.mp3
+158:Matta The Greatest Of All Time 320 Kbps.mp3
+159:Monster - YOASOBI.mp3
+160:Shape of You - Ed Sheeran.m4a
+161:Perfect - Ed Sheeran.m4a
+162:Bol Do Na Zara (From  Azhar ) - Armaan Malik.m4a
+163:Aaj Ki Raat (From  Stree 2 ) - Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya.m4a
+164:Aankh Marey (From Simmba).mp3
+165:Aasan Nahin Yahan Aashiqui 2 128 Kbps.mp3
+166:Sunn Raha Hai Male Aashiqui 2 128 Kbps.mp3
+167:Tum Hi Ho Aashiqui 2 128 Kbps.mp3
+168:Sunn Raha Hai (Female Version) - Shreya Ghoshal.m4a
+169:Illuminat.mp3
+170:Ae Dil Hai Mushkil Title Track - Pritam, Arijit Singh.m4a
+171:Bulleya - Pritam, Amit Mishra, Shilpa Rao.m4a
+172:Pungi - Pritam, Mika Singh, Amitabh Bhattacharya, Nakash Aziz, Javed Jaffrey.m4a
+173:Chikni Chameli - Ajay-Atul, Shreya Ghoshal.m4a
+174:Akhiyaan Gulaab (From  Teri Baaton Mein Aisa Uljha Jiya ) - Mitraz.m4a
+175:Buttabomma - Telugu - Armaan Malik, Thaman S.m4a
+176:Satranga Animal 128 Kbps.mp3
+177:Pehle Bhi Main Animal 128 Kbps.mp3
+178:Arabic Kuthu - Halamithi Habibo (From  Beast ) - Anirudh Ravichander, Jonita Gandhi.m4a
+179:Wo Ladki Jo Baadshah 128 Kbps.mp3
+180:Mere Rashke Qamar - Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan.m4a
+181:Kala Chashma - Prem & Hardeep, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Amrik Singh.m4a
+182:Baby John - Beast Mode - From  Baby John  - Thaman S, Raja Kumari, Adviteeya Vojjala, Ritesh G Rao.m4a
+183:Badass (From  Leo ) - Anirudh Ravichander.m4a
+184:Tu Meri - Vishal Dadlani.m4a
+185:Beast Mode.mp3
+186:Besharam Rang (From  Pathaan ) - Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+187:Chahun Main Ya Naa (From  Aashiqui 2 ) - Palak Muchhal, Arijit Singh.m4a
+188:Apna Bana Le - Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya.m4a
+189:Bhool Bhulaiyaa Pritam 128 Kbps.mp3
+190:Bijlee Bijlee - Harrdy Sandhu.m4a
+191:Teri Meri - Rahat Fateh Ali Khan, Shreya Ghoshal.m4a
+192:Bom Diggy Diggy - Zack Knight, Jasmin Walia.m4a
+193:Har Kisi Ko - Arijit Singh, Neeti Mohan.m4a
+194:Khairiyat - Pritam, Arijit Singh.m4a
+195:Chuttamalle (From  Devara Part 1 ) - Shilpa Rao, Anirudh Ravichander, Ramajogayya Sastry.m4a
+196:Daavudi (From  Devara Part 1 ) - Nakash Aziz, AKASA, Anirudh Ravichander.m4a
+197:Bhasad Macha - From  Deva  - Vishal Mishra, Mika Singh, Jyotica Tangri, Raj Shekhar.m4a
+198:Title Track Dhurandhar 128 Kbps.mp3
+199:Dilbar (From  Satyameva Jayate ) - Neha Kakkar, Dhvani Bhanushali, Ikka, Tanishk Bagchi.m4a
+200:Janam Janam - Pritam, Arijit Singh, Antara Mitra.m4a
+201:Chellamma-MassTamilan.fm.mp3
+202:New Rules - Dua Lipa.m4a
+203:Dude Trailer Blast (PenduJatt.Com.Se).mp3
+204:Ehsaas Faheem Abdullah 128 Kbps.mp3
+205:Deewaniyat Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+206:Mera Hua Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+207:Mashallah - Sajid-Wajid, Wajid, Shreya Ghoshal, Kausar Munir.m4a
+208:Galliyan Ek Villain 128 Kbps.mp3
+209:SLAVA FUNK! - MVSTERIOUS, Hxmr, yngastrobeatz., EVO.m4a
+210:Chand Sifarish - Jatin-Lalit, Shaan, Kailash Kher, Prasoon Joshi.m4a
+211:Levitating - Dua Lipa.m4a
+212:Love Again - Dua Lipa.m4a
+213:Break My Heart - Dua Lipa.m4a
+214:Teri Meri Kahaani - Palak Muchhal, Arijit Singh.m4a
+215:Ghungroo (From  War ) - Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar.m4a
+216:Guns N Roses (PenduJatt.Com.Se).mp3
+217:Kurchi Madathapetti Guntur Kaaram 320 Kbps.mp3
+218:Mawaa Enthaina Guntur Kaaram 128 Kbps.mp3
+219:Oh My Baby Guntur Kaaram 128 Kbps.mp3
+220:Levitating x Woh Ladki Jo Mashup(KoshalWorld.Com).mp3
+221:Oh Girl You Are Mine Housefull 128 Kbps.mp3
+222:Hukum - Thalaivar Alappara - Tamil (From  Jailer ) - Anirudh Ravichander, Super Subu.m4a
+223:There's Nothing Holdin' Me Back - Shawn Mendes.m4a
+224:Kabhi Kabhi Aditi Zindagi Jaane Tu.. Ya Jaane Na 128 Kbps.mp3
+225:Ye Ishq Hai - Pritam, Shreya Ghoshal.m4a
+226:Aao Milo Chalo - Pritam, Shaan, Sultan Khan.m4a
+227:Kabhi Jo Baadal Barse - Arijit Singh.m4a
+228:Pal - Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole.m4a
+229:Thalapathy Kacheri.mp3
+230:Jawan Title Track Anirudh Ravichander 128 Kbps.mp3
+231:Chaleya - Anirudh Ravichander, Arijit Singh, Shilpa Rao, Kumaar.m4a
+232:Maiyya Mainu - Sachet Tandon.m4a
+233:Bekhayali (Arijit Singh Version) - Arijit Singh.m4a
+234:Kalank - Title Track - Pritam, Arijit Singh.m4a
+235:Hangover - Salman Khan, Meet Bros Anjjan, Shreya Ghoshal.m4a
+236:Yaar Naa Miley - Yo Yo Honey Singh, Jasmine Sandlas.m4a
+237:Naa-Ready-MassTamilan.dev.mp3
+238:Akh Lad Jaave - Badshah, Asees Kaur, Jubin Nautiyal.m4a
+239:Besabriyaan M.s. Dhoni The Untold Story 128 Kbps.mp3
+240:Phir Kabhi M.s. Dhoni The Untold Story 128 Kbps.mp3
+241:Kaun Tujhe - Palak Muchhal.m4a
+242:Jab Tak - Armaan Malik.m4a
+243:Rowdy Baby Maari 2 128 Kbps.mp3
+244:Interval Fight.mp3
+245:Mashooka - Feat. Rakul Preet Singh - Asees Kaur, Tanishk Bagchi, Dev Negi, Viruss, Rakul Preet Singh.m4a
+246:Vaathi-Coming-MassTamilan.io.mp3
+247:JD-Intro-MassTamilan.io.mp3
+248:Mere Naam Tu (From  Zero ) - Abhay Jodhpurkar, Ajay-Atul.m4a
+249:Param Sundari - A.R. Rahman, Shreya Ghoshal.m4a
+250:Na Roja Nuvve - Hesham Abdul Wahab.m4a
+251:Naacho Naacho (From  RRR ) - Vishal Mishra, Rahul Sipligunj, M. M. Keeravaani, Riya Mukherjee.m4a
+252:Nadaaniyan Akshath 128 Kbps.mp3
+253:Nain Matakka - From  Baby John  - Thaman S, Diljit Dosanjh, Dhee, Irshad Kamil.m4a
+254:Sahiba(KoshalWorld.Com).mp3
+255:NO BATIDO - Slowed.mp3
+256:Not Ramaiya Vastavaiya (From  Jawan ) - Anirudh Ravichander, Vishal Dadlani, Shilpa Rao, Kumaar.m4a
+257:O Saki Saki (From  Batla House ) - Neha Kakkar, Tulsi Kumar, B Praak, Tanishk Bagchi, Vishal-Shekhar.m4a
+258:Main Agar Kahoon - Sonu Nigam, Shreya Ghoshal.m4a
+259:Ordinary Person (From  Leo ) - Anirudh Ravichander, Nikhita Gandhi.m4a
+260:Nainowale Ne - Neeti Mohan, Sanjay Leela Bhansali, Siddharth - Garima.m4a
+261:Pardesiya Param Sundari 128 Kbps.mp3
+262:PASSO BEM SOLTO - Slowed - ATLXS.m4a
+263:Jhoome Jo Pathaan - Vishal-Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+264:Afghan Jalebi (Film Version) - Pritam, Akhtar Chinnal.m4a
+265:Powerhouse - (Raag.Fm).mp3
+266:Chammak Challo - Akon, Hamsika Iyer.m4a
+267:Dildaara (Stand By Me) - Shafqat Amanat Ali.m4a
+268:Raataan Lambiyan (From  Shershaah ) - Tanishk Bagchi, Jubin Nautiyal, Asees Kaur.m4a
+269:Tujh Mein Rab Dikhta Hai - Salim–Sulaiman, Roop Kumar Rathod, Jaideep Sahni.m4a
+270:Jeene Laga Hoon - Atif Aslam, Shreya Ghoshal, Sachin-Jigar.m4a
+271:Ratata (From  Leo ) - Anirudh Ravichander.m4a
+272:River (feat. Ed Sheeran) - Eminem, Ed Sheeran.m4a
+273:What Jhumka   (From  Rocky Aur Rani Kii Prem Kahaani ) - Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Amitabh Bhattacharya.m4a
+274:Barbaad Saiyaara 128 Kbps.mp3
+275:Dhun Saiyaara 128 Kbps.mp3
+276:Humsafar Saiyaara 128 Kbps.mp3
+277:Saiyaara 128 Kbps.mp3
+278:Saiyaara Reprise - Female - (Raag.Fm).mp3
+279:Saiyaara X Aashiqui 2 Mashup _ Jay Guldekar _ Faheem Abdullah _ Arijit Singh _ Tum Hi Ho [aIxEPVFrNWk].mp3
+280:Saiyaara x Aashiqui 2 x Ek Villain (Mashup) HS Visual x Papul-(SambalpuriStar.In).mp3
+281:Sanam Re - Mithoon, Arijit Singh.m4a
+282:Sanam Teri Kasam - Ankit Tiwari, Palak Muchhal, Sameer Anjaan.m4a
+283:Shaam Shaandaar - Amit Trivedi.m4a
+284:Gulaabo - Amit Trivedi, Anusha Mani, Vishal Dadlani.m4a
+285:Mera Wala Dance Simmba 128 Kbps.mp3
+286:Soni Soni (From  Ishq Vishk Rebound ) - Darshan Raval, Jonita Gandhi, Rochak Kohli, Gurpreet Saini.m4a
+287:Sunflower - Spider-Man  Into the Spider-Verse - Post Malone, Swae Lee.m4a
+288:Tu Cheez Badi Hai Mast Mast Mix (From Dacoit)  Adivi Sesh  Mrunal Thakur Anurag Kashyap.mp3
+289:Milegi Milegi - Mika Singh, Sachin-Jigar.m4a
+290:Kamariya - Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar.m4a
+291:Khoobsurat Stree 2 128 Kbps.mp3
+292:Aayi Nai - Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya.m4a
+293:Taras - From  Munjya  - Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya.m4a
+294:Sheila Ki Jawani - Sunidhi Chauhan, Vishal Dadlani.m4a
+295:Title Track Tere Ishk Mein 128 Kbps.mp3
+296:Rahein Na Rahein Hum Thamma 128 Kbps.mp3
+297:Tum Mere Na Huye Thamma 128 Kbps.mp3
+298:Matta The Greatest Of All Time 320 Kbps.mp3
+299:Tones and I - Dance Monkey.mp3
+300:Thodi Jagah (From  Marjaavaan ) - Arijit Singh, Tanishk Bagchi.m4a
+301:Ninnila - Thaman S, Armaan Malik, Shree Mani.m4a
+302:Thumkeshwari - Sachin-Jigar, Rashmeet Kaur, Ash King, Divya Kumar, Amitabh Bhattacharya.m4a
+303:Dil Diyan Gallan - Vishal-Shekhar, Atif Aslam, Irshad Kamil.m4a
+304:Tere Pyaar Mein - Pritam, Arijit Singh, Amitabh Bhattacharya, Nikhita Gandhi.m4a
+305:Pyaar Hota Kayi Baar Hai - Pritam, Arijit Singh, Amitabh Bhattacharya, Charan.m4a
+306:Tum Tum (From  Enemy - Tamil ) - Thaman S, Srivardhani Kuchi, Aditi Bhavaraju, Satya Yamini, Roshini JKV, Tejaswini, Karaikudi Mani.m4a
+307:Tumhare Hi Rahenge Hum (From  Stree 2 ) - Sachin-Jigar, Varun Jain, Shilpa Rao, Amitabh Bhattacharya.m4a
+308:Ud-daa Punjab - Amit Trivedi, Vishal Dadlani.m4a
+309:Jimikki Ponnu Varisu 128 Kbps.mp3
+310:Ranjithame Varisu 128 Kbps.mp3
+311:Attention - Charlie Puth.m4a
+312:Jai Jai Shivshankar War 128 Kbps.mp3
+313:What's Up Danger (with Black Caviar) - Blackway, Black Caviar.m4a
+314:Why This Kolaveri Di  - The Soup of Love - Anirudh Ravichander, Dhanush.m4a
+315:Badtameez Dil - Pritam, Benny Dayal, Shefali Alvares.m4a
+316:Tere Vaaste (From  Zara Hatke Zara Bachke ) - Sachin-Jigar, Varun Jain, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya.m4a
+317:Zinda Banda (From  Jawan ) - Anirudh Ravichander, Irshad Kamil.m4a
+318:Monster - YOASOBI.mp3
+319:Shape of You - Ed Sheeran.m4a
+320:Perfect - Ed Sheeran.m4a
+321:Bol Do Na Zara (From  Azhar ) - Armaan Malik.m4a
+322:Aaj Ki Raat (From  Stree 2 ) - Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya.m4a
+323:Aankh Marey (From Simmba).mp3
+324:Aasan Nahin Yahan Aashiqui 2 128 Kbps.mp3
+325:Sunn Raha Hai Male Aashiqui 2 128 Kbps.mp3
+326:Tum Hi Ho Aashiqui 2 128 Kbps.mp3
+327:Sunn Raha Hai (Female Version) - Shreya Ghoshal.m4a
+328:Illuminat.mp3
+329:Ae Dil Hai Mushkil Title Track - Pritam, Arijit Singh.m4a
+330:Bulleya - Pritam, Amit Mishra, Shilpa Rao.m4a
+331:Pungi - Pritam, Mika Singh, Amitabh Bhattacharya, Nakash Aziz, Javed Jaffrey.m4a
+332:Chikni Chameli - Ajay-Atul, Shreya Ghoshal.m4a
+333:Akhiyaan Gulaab (From  Teri Baaton Mein Aisa Uljha Jiya ) - Mitraz.m4a
+334:Buttabomma - Telugu - Armaan Malik, Thaman S.m4a
+335:Satranga Animal 128 Kbps.mp3
+336:Pehle Bhi Main Animal 128 Kbps.mp3
+337:Arabic Kuthu - Halamithi Habibo (From  Beast ) - Anirudh Ravichander, Jonita Gandhi.m4a
+338:Wo Ladki Jo Baadshah 128 Kbps.mp3
+339:Mere Rashke Qamar - Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan.m4a
+340:Kala Chashma - Prem & Hardeep, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Amrik Singh.m4a
+341:Baby John - Beast Mode - From  Baby John  - Thaman S, Raja Kumari, Adviteeya Vojjala, Ritesh G Rao.m4a
+342:Badass (From  Leo ) - Anirudh Ravichander.m4a
+343:Tu Meri - Vishal Dadlani.m4a
+344:Beast Mode.mp3
+345:Besharam Rang (From  Pathaan ) - Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+346:Chahun Main Ya Naa (From  Aashiqui 2 ) - Palak Muchhal, Arijit Singh.m4a
+347:Apna Bana Le - Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya.m4a
+348:Bhool Bhulaiyaa Pritam 128 Kbps.mp3
+349:Bijlee Bijlee - Harrdy Sandhu.m4a
+350:Teri Meri - Rahat Fateh Ali Khan, Shreya Ghoshal.m4a
+351:Bom Diggy Diggy - Zack Knight, Jasmin Walia.m4a
+352:Har Kisi Ko - Arijit Singh, Neeti Mohan.m4a
+353:Khairiyat - Pritam, Arijit Singh.m4a
+354:Chuttamalle (From  Devara Part 1 ) - Shilpa Rao, Anirudh Ravichander, Ramajogayya Sastry.m4a
+355:Daavudi (From  Devara Part 1 ) - Nakash Aziz, AKASA, Anirudh Ravichander.m4a
+356:Bhasad Macha - From  Deva  - Vishal Mishra, Mika Singh, Jyotica Tangri, Raj Shekhar.m4a
+357:Title Track Dhurandhar 128 Kbps.mp3
+358:Dilbar (From  Satyameva Jayate ) - Neha Kakkar, Dhvani Bhanushali, Ikka, Tanishk Bagchi.m4a
+359:Janam Janam - Pritam, Arijit Singh, Antara Mitra.m4a
+360:Chellamma-MassTamilan.fm.mp3
+361:New Rules - Dua Lipa.m4a
+362:Dude Trailer Blast (PenduJatt.Com.Se).mp3
+363:Ehsaas Faheem Abdullah 128 Kbps.mp3
+364:Deewaniyat Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+365:Mera Hua Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+366:Mashallah - Sajid-Wajid, Wajid, Shreya Ghoshal, Kausar Munir.m4a
+367:Galliyan Ek Villain 128 Kbps.mp3
+368:SLAVA FUNK! - MVSTERIOUS, Hxmr, yngastrobeatz., EVO.m4a
+369:Chand Sifarish - Jatin-Lalit, Shaan, Kailash Kher, Prasoon Joshi.m4a
+370:Levitating - Dua Lipa.m4a
+371:Love Again - Dua Lipa.m4a
+372:Break My Heart - Dua Lipa.m4a
+373:Teri Meri Kahaani - Palak Muchhal, Arijit Singh.m4a
+374:Ghungroo (From  War ) - Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar.m4a
+375:Guns N Roses (PenduJatt.Com.Se).mp3
+376:Kurchi Madathapetti Guntur Kaaram 320 Kbps.mp3
+377:Mawaa Enthaina Guntur Kaaram 128 Kbps.mp3
+378:Oh My Baby Guntur Kaaram 128 Kbps.mp3
+379:Levitating x Woh Ladki Jo Mashup(KoshalWorld.Com).mp3
+380:Oh Girl You Are Mine Housefull 128 Kbps.mp3
+381:Hukum - Thalaivar Alappara - Tamil (From  Jailer ) - Anirudh Ravichander, Super Subu.m4a
+382:There's Nothing Holdin' Me Back - Shawn Mendes.m4a
+383:Kabhi Kabhi Aditi Zindagi Jaane Tu.. Ya Jaane Na 128 Kbps.mp3
+384:Ye Ishq Hai - Pritam, Shreya Ghoshal.m4a
+385:Aao Milo Chalo - Pritam, Shaan, Sultan Khan.m4a
+386:Kabhi Jo Baadal Barse - Arijit Singh.m4a
+387:Pal - Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole.m4a
+388:Thalapathy Kacheri.mp3
+389:Jawan Title Track Anirudh Ravichander 128 Kbps.mp3
+390:Chaleya - Anirudh Ravichander, Arijit Singh, Shilpa Rao, Kumaar.m4a
+391:Maiyya Mainu - Sachet Tandon.m4a
+392:Bekhayali (Arijit Singh Version) - Arijit Singh.m4a
+393:Kalank - Title Track - Pritam, Arijit Singh.m4a
+394:Hangover - Salman Khan, Meet Bros Anjjan, Shreya Ghoshal.m4a
+395:Yaar Naa Miley - Yo Yo Honey Singh, Jasmine Sandlas.m4a
+396:Naa-Ready-MassTamilan.dev.mp3
+397:Akh Lad Jaave - Badshah, Asees Kaur, Jubin Nautiyal.m4a
+398:Besabriyaan M.s. Dhoni The Untold Story 128 Kbps.mp3
+399:Phir Kabhi M.s. Dhoni The Untold Story 128 Kbps.mp3
+400:Kaun Tujhe - Palak Muchhal.m4a
+401:Jab Tak - Armaan Malik.m4a
+402:Rowdy Baby Maari 2 128 Kbps.mp3
+403:Interval Fight.mp3
+404:Mashooka - Feat. Rakul Preet Singh - Asees Kaur, Tanishk Bagchi, Dev Negi, Viruss, Rakul Preet Singh.m4a
+405:Vaathi-Coming-MassTamilan.io.mp3
+406:JD-Intro-MassTamilan.io.mp3
+407:Mere Naam Tu (From  Zero ) - Abhay Jodhpurkar, Ajay-Atul.m4a
+408:Param Sundari - A.R. Rahman, Shreya Ghoshal.m4a
+409:Na Roja Nuvve - Hesham Abdul Wahab.m4a
+410:Naacho Naacho (From  RRR ) - Vishal Mishra, Rahul Sipligunj, M. M. Keeravaani, Riya Mukherjee.m4a
+411:Nadaaniyan Akshath 128 Kbps.mp3
+412:Nain Matakka - From  Baby John  - Thaman S, Diljit Dosanjh, Dhee, Irshad Kamil.m4a
+413:Sahiba(KoshalWorld.Com).mp3
+414:NO BATIDO - Slowed.mp3
+415:Not Ramaiya Vastavaiya (From  Jawan ) - Anirudh Ravichander, Vishal Dadlani, Shilpa Rao, Kumaar.m4a
+416:O Saki Saki (From  Batla House ) - Neha Kakkar, Tulsi Kumar, B Praak, Tanishk Bagchi, Vishal-Shekhar.m4a
+417:Main Agar Kahoon - Sonu Nigam, Shreya Ghoshal.m4a
+418:Ordinary Person (From  Leo ) - Anirudh Ravichander, Nikhita Gandhi.m4a
+419:Nainowale Ne - Neeti Mohan, Sanjay Leela Bhansali, Siddharth - Garima.m4a
+420:Pardesiya Param Sundari 128 Kbps.mp3
+421:PASSO BEM SOLTO - Slowed - ATLXS.m4a
+422:Jhoome Jo Pathaan - Vishal-Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+423:Afghan Jalebi (Film Version) - Pritam, Akhtar Chinnal.m4a
+424:Powerhouse - (Raag.Fm).mp3
+425:Chammak Challo - Akon, Hamsika Iyer.m4a
+426:Dildaara (Stand By Me) - Shafqat Amanat Ali.m4a
+427:Raataan Lambiyan (From  Shershaah ) - Tanishk Bagchi, Jubin Nautiyal, Asees Kaur.m4a
+428:Tujh Mein Rab Dikhta Hai - Salim–Sulaiman, Roop Kumar Rathod, Jaideep Sahni.m4a
+429:Jeene Laga Hoon - Atif Aslam, Shreya Ghoshal, Sachin-Jigar.m4a
+430:Ratata (From  Leo ) - Anirudh Ravichander.m4a
+431:River (feat. Ed Sheeran) - Eminem, Ed Sheeran.m4a
+432:What Jhumka   (From  Rocky Aur Rani Kii Prem Kahaani ) - Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Amitabh Bhattacharya.m4a
+433:Barbaad Saiyaara 128 Kbps.mp3
+434:Dhun Saiyaara 128 Kbps.mp3
+435:Humsafar Saiyaara 128 Kbps.mp3
+436:Saiyaara 128 Kbps.mp3
+437:Saiyaara Reprise - Female - (Raag.Fm).mp3
+438:Saiyaara X Aashiqui 2 Mashup _ Jay Guldekar _ Faheem Abdullah _ Arijit Singh _ Tum Hi Ho [aIxEPVFrNWk].mp3
+439:Saiyaara x Aashiqui 2 x Ek Villain (Mashup) HS Visual x Papul-(SambalpuriStar.In).mp3
+440:Sanam Re - Mithoon, Arijit Singh.m4a
+441:Sanam Teri Kasam - Ankit Tiwari, Palak Muchhal, Sameer Anjaan.m4a
+442:Shaam Shaandaar - Amit Trivedi.m4a
+443:Gulaabo - Amit Trivedi, Anusha Mani, Vishal Dadlani.m4a
+444:Mera Wala Dance Simmba 128 Kbps.mp3
+445:Soni Soni (From  Ishq Vishk Rebound ) - Darshan Raval, Jonita Gandhi, Rochak Kohli, Gurpreet Saini.m4a
+446:Sunflower - Spider-Man  Into the Spider-Verse - Post Malone, Swae Lee.m4a
+447:Tu Cheez Badi Hai Mast Mast Mix (From Dacoit)  Adivi Sesh  Mrunal Thakur Anurag Kashyap.mp3
+448:Milegi Milegi - Mika Singh, Sachin-Jigar.m4a
+449:Kamariya - Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar.m4a
+450:Khoobsurat Stree 2 128 Kbps.mp3
+451:Aayi Nai - Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya.m4a
+452:Taras - From  Munjya  - Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya.m4a
+453:Sheila Ki Jawani - Sunidhi Chauhan, Vishal Dadlani.m4a
+454:Title Track Tere Ishk Mein 128 Kbps.mp3
+455:Rahein Na Rahein Hum Thamma 128 Kbps.mp3
+456:Tum Mere Na Huye Thamma 128 Kbps.mp3
+457:Matta The Greatest Of All Time 320 Kbps.mp3
+458:Tones and I - Dance Monkey.mp3
+459:Thodi Jagah (From  Marjaavaan ) - Arijit Singh, Tanishk Bagchi.m4a
+460:Ninnila - Thaman S, Armaan Malik, Shree Mani.m4a
+461:Thumkeshwari - Sachin-Jigar, Rashmeet Kaur, Ash King, Divya Kumar, Amitabh Bhattacharya.m4a
+462:Dil Diyan Gallan - Vishal-Shekhar, Atif Aslam, Irshad Kamil.m4a
+463:Tere Pyaar Mein - Pritam, Arijit Singh, Amitabh Bhattacharya, Nikhita Gandhi.m4a
+464:Pyaar Hota Kayi Baar Hai - Pritam, Arijit Singh, Amitabh Bhattacharya, Charan.m4a
+465:Tum Tum (From  Enemy - Tamil ) - Thaman S, Srivardhani Kuchi, Aditi Bhavaraju, Satya Yamini, Roshini JKV, Tejaswini, Karaikudi Mani.m4a
+466:Tumhare Hi Rahenge Hum (From  Stree 2 ) - Sachin-Jigar, Varun Jain, Shilpa Rao, Amitabh Bhattacharya.m4a
+467:Ud-daa Punjab - Amit Trivedi, Vishal Dadlani.m4a
+468:Jimikki Ponnu Varisu 128 Kbps.mp3
+469:Ranjithame Varisu 128 Kbps.mp3
+470:Attention - Charlie Puth.m4a
+471:Jai Jai Shivshankar War 128 Kbps.mp3
+472:What's Up Danger (with Black Caviar) - Blackway, Black Caviar.m4a
+473:Why This Kolaveri Di  - The Soup of Love - Anirudh Ravichander, Dhanush.m4a
+474:Badtameez Dil - Pritam, Benny Dayal, Shefali Alvares.m4a
+475:Tere Vaaste (From  Zara Hatke Zara Bachke ) - Sachin-Jigar, Varun Jain, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya.m4a
+476:Zinda Banda (From  Jawan ) - Anirudh Ravichander, Irshad Kamil.m4a
+477:Monster - YOASOBI.mp3
+478:Shape of You - Ed Sheeran.m4a
+479:Perfect - Ed Sheeran.m4a
+480:Bol Do Na Zara (From  Azhar ) - Armaan Malik.m4a
+481:Aaj Ki Raat (From  Stree 2 ) - Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya.m4a
+482:Aankh Marey (From Simmba).mp3
+483:Aasan Nahin Yahan Aashiqui 2 128 Kbps.mp3
+484:Sunn Raha Hai Male Aashiqui 2 128 Kbps.mp3
+485:Tum Hi Ho Aashiqui 2 128 Kbps.mp3
+486:Sunn Raha Hai (Female Version) - Shreya Ghoshal.m4a
+487:Illuminat.mp3
+488:Ae Dil Hai Mushkil Title Track - Pritam, Arijit Singh.m4a
+489:Bulleya - Pritam, Amit Mishra, Shilpa Rao.m4a
+490:Pungi - Pritam, Mika Singh, Amitabh Bhattacharya, Nakash Aziz, Javed Jaffrey.m4a
+491:Chikni Chameli - Ajay-Atul, Shreya Ghoshal.m4a
+492:Akhiyaan Gulaab (From  Teri Baaton Mein Aisa Uljha Jiya ) - Mitraz.m4a
+493:Buttabomma - Telugu - Armaan Malik, Thaman S.m4a
+494:Satranga Animal 128 Kbps.mp3
+495:Pehle Bhi Main Animal 128 Kbps.mp3
+496:Arabic Kuthu - Halamithi Habibo (From  Beast ) - Anirudh Ravichander, Jonita Gandhi.m4a
+497:Wo Ladki Jo Baadshah 128 Kbps.mp3
+498:Mere Rashke Qamar - Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan.m4a
+499:Kala Chashma - Prem & Hardeep, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Amrik Singh.m4a
+500:Baby John - Beast Mode - From  Baby John  - Thaman S, Raja Kumari, Adviteeya Vojjala, Ritesh G Rao.m4a
+501:Badass (From  Leo ) - Anirudh Ravichander.m4a
+502:Tu Meri - Vishal Dadlani.m4a
+503:Beast Mode.mp3
+504:Besharam Rang (From  Pathaan ) - Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+505:Chahun Main Ya Naa (From  Aashiqui 2 ) - Palak Muchhal, Arijit Singh.m4a
+506:Apna Bana Le - Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya.m4a
+507:Bhool Bhulaiyaa Pritam 128 Kbps.mp3
+508:Bijlee Bijlee - Harrdy Sandhu.m4a
+509:Teri Meri - Rahat Fateh Ali Khan, Shreya Ghoshal.m4a
+510:Bom Diggy Diggy - Zack Knight, Jasmin Walia.m4a
+511:Har Kisi Ko - Arijit Singh, Neeti Mohan.m4a
+512:Khairiyat - Pritam, Arijit Singh.m4a
+513:Chuttamalle (From  Devara Part 1 ) - Shilpa Rao, Anirudh Ravichander, Ramajogayya Sastry.m4a
+514:Daavudi (From  Devara Part 1 ) - Nakash Aziz, AKASA, Anirudh Ravichander.m4a
+515:Bhasad Macha - From  Deva  - Vishal Mishra, Mika Singh, Jyotica Tangri, Raj Shekhar.m4a
+516:Title Track Dhurandhar 128 Kbps.mp3
+517:Dilbar (From  Satyameva Jayate ) - Neha Kakkar, Dhvani Bhanushali, Ikka, Tanishk Bagchi.m4a
+518:Janam Janam - Pritam, Arijit Singh, Antara Mitra.m4a
+519:Chellamma-MassTamilan.fm.mp3
+520:New Rules - Dua Lipa.m4a
+521:Dude Trailer Blast (PenduJatt.Com.Se).mp3
+522:Ehsaas Faheem Abdullah 128 Kbps.mp3
+523:Deewaniyat Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+524:Mera Hua Ek Deewane Ki Deewaniyat 128 Kbps.mp3
+525:Mashallah - Sajid-Wajid, Wajid, Shreya Ghoshal, Kausar Munir.m4a
+526:Galliyan Ek Villain 128 Kbps.mp3
+527:SLAVA FUNK! - MVSTERIOUS, Hxmr, yngastrobeatz., EVO.m4a
+528:Chand Sifarish - Jatin-Lalit, Shaan, Kailash Kher, Prasoon Joshi.m4a
+529:Levitating - Dua Lipa.m4a
+530:Love Again - Dua Lipa.m4a
+531:Break My Heart - Dua Lipa.m4a
+532:Teri Meri Kahaani - Palak Muchhal, Arijit Singh.m4a
+533:Ghungroo (From  War ) - Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar.m4a
+534:Guns N Roses (PenduJatt.Com.Se).mp3
+535:Kurchi Madathapetti Guntur Kaaram 320 Kbps.mp3
+536:Mawaa Enthaina Guntur Kaaram 128 Kbps.mp3
+537:Oh My Baby Guntur Kaaram 128 Kbps.mp3
+538:Levitating x Woh Ladki Jo Mashup(KoshalWorld.Com).mp3
+539:Oh Girl You Are Mine Housefull 128 Kbps.mp3
+540:Hukum - Thalaivar Alappara - Tamil (From  Jailer ) - Anirudh Ravichander, Super Subu.m4a
+541:There's Nothing Holdin' Me Back - Shawn Mendes.m4a
+542:Kabhi Kabhi Aditi Zindagi Jaane Tu.. Ya Jaane Na 128 Kbps.mp3
+543:Ye Ishq Hai - Pritam, Shreya Ghoshal.m4a
+544:Aao Milo Chalo - Pritam, Shaan, Sultan Khan.m4a
+545:Kabhi Jo Baadal Barse - Arijit Singh.m4a
+546:Pal - Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole.m4a
+547:Thalapathy Kacheri.mp3
+548:Jawan Title Track Anirudh Ravichander 128 Kbps.mp3
+549:Chaleya - Anirudh Ravichander, Arijit Singh, Shilpa Rao, Kumaar.m4a
+550:Maiyya Mainu - Sachet Tandon.m4a
+551:Bekhayali (Arijit Singh Version) - Arijit Singh.m4a
+552:Kalank - Title Track - Pritam, Arijit Singh.m4a
+553:Hangover - Salman Khan, Meet Bros Anjjan, Shreya Ghoshal.m4a
+554:Yaar Naa Miley - Yo Yo Honey Singh, Jasmine Sandlas.m4a
+555:Naa-Ready-MassTamilan.dev.mp3
+556:Akh Lad Jaave - Badshah, Asees Kaur, Jubin Nautiyal.m4a
+557:Besabriyaan M.s. Dhoni The Untold Story 128 Kbps.mp3
+558:Phir Kabhi M.s. Dhoni The Untold Story 128 Kbps.mp3
+559:Kaun Tujhe - Palak Muchhal.m4a
+560:Jab Tak - Armaan Malik.m4a
+561:Rowdy Baby Maari 2 128 Kbps.mp3
+562:Interval Fight.mp3
+563:Mashooka - Feat. Rakul Preet Singh - Asees Kaur, Tanishk Bagchi, Dev Negi, Viruss, Rakul Preet Singh.m4a
+564:Vaathi-Coming-MassTamilan.io.mp3
+565:JD-Intro-MassTamilan.io.mp3
+566:Mere Naam Tu (From  Zero ) - Abhay Jodhpurkar, Ajay-Atul.m4a
+567:Param Sundari - A.R. Rahman, Shreya Ghoshal.m4a
+568:Na Roja Nuvve - Hesham Abdul Wahab.m4a
+569:Naacho Naacho (From  RRR ) - Vishal Mishra, Rahul Sipligunj, M. M. Keeravaani, Riya Mukherjee.m4a
+570:Nadaaniyan Akshath 128 Kbps.mp3
+571:Nain Matakka - From  Baby John  - Thaman S, Diljit Dosanjh, Dhee, Irshad Kamil.m4a
+572:Sahiba(KoshalWorld.Com).mp3
+573:NO BATIDO - Slowed.mp3
+574:Not Ramaiya Vastavaiya (From  Jawan ) - Anirudh Ravichander, Vishal Dadlani, Shilpa Rao, Kumaar.m4a
+575:O Saki Saki (From  Batla House ) - Neha Kakkar, Tulsi Kumar, B Praak, Tanishk Bagchi, Vishal-Shekhar.m4a
+576:Main Agar Kahoon - Sonu Nigam, Shreya Ghoshal.m4a
+577:Ordinary Person (From  Leo ) - Anirudh Ravichander, Nikhita Gandhi.m4a
+578:Nainowale Ne - Neeti Mohan, Sanjay Leela Bhansali, Siddharth - Garima.m4a
+579:Pardesiya Param Sundari 128 Kbps.mp3
+580:PASSO BEM SOLTO - Slowed - ATLXS.m4a
+581:Jhoome Jo Pathaan - Vishal-Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar.m4a
+582:Afghan Jalebi (Film Version) - Pritam, Akhtar Chinnal.m4a
+583:Powerhouse - (Raag.Fm).mp3
+584:Chammak Challo - Akon, Hamsika Iyer.m4a
+585:Dildaara (Stand By Me) - Shafqat Amanat Ali.m4a
+586:Raataan Lambiyan (From  Shershaah ) - Tanishk Bagchi, Jubin Nautiyal, Asees Kaur.m4a
+587:Tujh Mein Rab Dikhta Hai - Salim–Sulaiman, Roop Kumar Rathod, Jaideep Sahni.m4a
+588:Jeene Laga Hoon - Atif Aslam, Shreya Ghoshal, Sachin-Jigar.m4a
+589:Ratata (From  Leo ) - Anirudh Ravichander.m4a
+590:River (feat. Ed Sheeran) - Eminem, Ed Sheeran.m4a
+591:What Jhumka   (From  Rocky Aur Rani Kii Prem Kahaani ) - Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Amitabh Bhattacharya.m4a
+592:Barbaad Saiyaara 128 Kbps.mp3
+593:Dhun Saiyaara 128 Kbps.mp3
+594:Humsafar Saiyaara 128 Kbps.mp3
+595:Saiyaara 128 Kbps.mp3
+596:Saiyaara Reprise - Female - (Raag.Fm).mp3
+597:Saiyaara X Aashiqui 2 Mashup _ Jay Guldekar _ Faheem Abdullah _ Arijit Singh _ Tum Hi Ho [aIxEPVFrNWk].mp3
+598:Saiyaara x Aashiqui 2 x Ek Villain (Mashup) HS Visual x Papul-(SambalpuriStar.In).mp3
+599:Sanam Re - Mithoon, Arijit Singh.m4a
+600:Sanam Teri Kasam - Ankit Tiwari, Palak Muchhal, Sameer Anjaan.m4a
+601:Shaam Shaandaar - Amit Trivedi.m4a
+602:Gulaabo - Amit Trivedi, Anusha Mani, Vishal Dadlani.m4a
+603:Mera Wala Dance Simmba 128 Kbps.mp3
+604:Soni Soni (From  Ishq Vishk Rebound ) - Darshan Raval, Jonita Gandhi, Rochak Kohli, Gurpreet Saini.m4a
+605:Sunflower - Spider-Man  Into the Spider-Verse - Post Malone, Swae Lee.m4a
+606:Tu Cheez Badi Hai Mast Mast Mix (From Dacoit)  Adivi Sesh  Mrunal Thakur Anurag Kashyap.mp3
+607:Milegi Milegi - Mika Singh, Sachin-Jigar.m4a
+608:Kamariya - Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar.m4a
+609:Khoobsurat Stree 2 128 Kbps.mp3
+610:Aayi Nai - Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya.m4a
+611:Taras - From  Munjya  - Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya.m4a
+612:Sheila Ki Jawani - Sunidhi Chauhan, Vishal Dadlani.m4a
+613:Title Track Tere Ishk Mein 128 Kbps.mp3
+614:Rahein Na Rahein Hum Thamma 128 Kbps.mp3
+615:Tum Mere Na Huye Thamma 128 Kbps.mp3
+616:Matta The Greatest Of All Time 320 Kbps.mp3
+617:Tones and I - Dance Monkey.mp3
+618:Thodi Jagah (From  Marjaavaan ) - Arijit Singh, Tanishk Bagchi.m4a
+619:Ninnila - Thaman S, Armaan Malik, Shree Mani.m4a
+620:Thumkeshwari - Sachin-Jigar, Rashmeet Kaur, Ash King, Divya Kumar, Amitabh Bhattacharya.m4a
+621:Dil Diyan Gallan - Vishal-Shekhar, Atif Aslam, Irshad Kamil.m4a
+622:Tere Pyaar Mein - Pritam, Arijit Singh, Amitabh Bhattacharya, Nikhita Gandhi.m4a
+623:Pyaar Hota Kayi Baar Hai - Pritam, Arijit Singh, Amitabh Bhattacharya, Charan.m4a
+624:Tum Tum (From  Enemy - Tamil ) - Thaman S, Srivardhani Kuchi, Aditi Bhavaraju, Satya Yamini, Roshini JKV, Tejaswini, Karaikudi Mani.m4a
+625:Tumhare Hi Rahenge Hum (From  Stree 2 ) - Sachin-Jigar, Varun Jain, Shilpa Rao, Amitabh Bhattacharya.m4a
+626:Ud-daa Punjab - Amit Trivedi, Vishal Dadlani.m4a
+627:Jimikki Ponnu Varisu 128 Kbps.mp3
+628:Ranjithame Varisu 128 Kbps.mp3
+629:Attention - Charlie Puth.m4a
+630:Jai Jai Shivshankar War 128 Kbps.mp3
+631:What's Up Danger (with Black Caviar) - Blackway, Black Caviar.m4a
+632:Why This Kolaveri Di  - The Soup of Love - Anirudh Ravichander, Dhanush.m4a
+633:Badtameez Dil - Pritam, Benny Dayal, Shefali Alvares.m4a
+634:Tere Vaaste (From  Zara Hatke Zara Bachke ) - Sachin-Jigar, Varun Jain, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya.m4a
+635:Zinda Banda (From  Jawan ) - Anirudh Ravichander, Irshad Kamil.m4a
+playlist_end
