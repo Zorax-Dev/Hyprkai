@@ -53,6 +53,7 @@ Files used:
 - ce.rasi
 - ts.rasi
 - wlogout.sh
+- syslauncher.sh
 - hyprlock.sh
 repository:
 https://github.com/aadritobasu/HyprKenso
